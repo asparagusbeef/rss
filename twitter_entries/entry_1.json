@@ -1,0 +1,536 @@
+{
+    "type": "TimelinePinEntry",
+    "entry": {
+        "entryId": "tweet-1739089927667695833",
+        "sortIndex": "1739180081638539264",
+        "content": {
+            "entryType": "TimelineTimelineItem",
+            "__typename": "TimelineTimelineItem",
+            "itemContent": {
+                "itemType": "TimelineTweet",
+                "__typename": "TimelineTweet",
+                "tweet_results": {
+                    "result": {
+                        "__typename": "Tweet",
+                        "rest_id": "1739089927667695833",
+                        "core": {
+                            "user_results": {
+                                "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMDQ4MjI5NjgxMjczNzQxMzEy",
+                                    "rest_id": "1048229681273741312",
+                                    "affiliates_highlighted_label": {},
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                        "created_at": "Fri Oct 05 15:13:25 +0000 2018",
+                                        "default_profile": true,
+                                        "default_profile_image": false,
+                                        "description": "Leading non-partisan U.S. based org fighting antisemitism. Media \ud83d\udc49\ud83c\udffcpress@stopantisemitism.org Incidents \ud83d\udc49\ud83c\udffcinfo@stopantisemitism.org",
+                                        "entities": {
+                                            "description": {
+                                                "urls": []
+                                            },
+                                            "url": {
+                                                "urls": [
+                                                    {
+                                                        "display_url": "stopantisemitism.org",
+                                                        "expanded_url": "https://www.stopantisemitism.org",
+                                                        "url": "https://t.co/UTngqZQwiN",
+                                                        "indices": [
+                                                            0,
+                                                            23
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "fast_followers_count": 0,
+                                        "favourites_count": 45675,
+                                        "followers_count": 290000,
+                                        "friends_count": 1364,
+                                        "has_custom_timelines": true,
+                                        "is_translator": false,
+                                        "listed_count": 929,
+                                        "location": "NYC",
+                                        "media_count": 6542,
+                                        "name": "StopAntisemitism",
+                                        "normal_followers_count": 290000,
+                                        "pinned_tweet_ids_str": [
+                                            "1739089927667695833"
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048229681273741312/1556676598",
+                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514037611979026432/ghCfVFt2_normal.jpg",
+                                        "profile_interstitial_type": "",
+                                        "screen_name": "StopAntisemites",
+                                        "statuses_count": 16872,
+                                        "translator_type": "none",
+                                        "url": "https://t.co/UTngqZQwiN",
+                                        "verified": false,
+                                        "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                        "rest_id": "1461076368817545219",
+                                        "professional_type": "Business",
+                                        "category": [
+                                            {
+                                                "id": 688,
+                                                "name": "Non-Governmental & Nonprofit Organization ",
+                                                "icon_name": "IconBriefcaseStroke"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "unmention_data": {},
+                        "unified_card": {
+                            "card_fetch_state": "NoCard"
+                        },
+                        "edit_control": {
+                            "edit_tweet_ids": [
+                                "1739089927667695833"
+                            ],
+                            "editable_until_msecs": "1703469924000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                        },
+                        "is_translatable": false,
+                        "views": {
+                            "count": "194211",
+                            "state": "EnabledWithCount"
+                        },
+                        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                        "note_tweet": {
+                            "is_expandable": false,
+                            "note_tweet_results": {
+                                "result": {
+                                    "id": "Tm90ZVR3ZWV0OjE3MzkwODk5Mjc2MDA1MjEyMTY=",
+                                    "text": "2023 'Antisemite of the Year' - after thousands of votes this past week, three finalists have emerged: \n\n* Congresswoman Rashida Tlaib\n* Hamas leader Ismail Haniyeh\n* Supermodel Gigi Hadid\n\nVOTE and make your voice heard! https://t.co/2U3lF8Pqwl\u2026",
+                                    "entity_set": {
+                                        "hashtags": [],
+                                        "symbols": [],
+                                        "urls": [
+                                            {
+                                                "display_url": "stopantisemitism.org/antisemite-of-\u2026",
+                                                "expanded_url": "http://stopantisemitism.org/antisemite-of-the-year",
+                                                "url": "https://t.co/2U3lF8Pqwl",
+                                                "indices": [
+                                                    222,
+                                                    245
+                                                ]
+                                            }
+                                        ],
+                                        "user_mentions": []
+                                    },
+                                    "richtext": {
+                                        "richtext_tags": [
+                                            {
+                                                "from_index": 38,
+                                                "to_index": 57,
+                                                "richtext_types": [
+                                                    "Bold"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "media": {
+                                        "inline_media": []
+                                    }
+                                }
+                            }
+                        },
+                        "legacy": {
+                            "bookmark_count": 22,
+                            "bookmarked": false,
+                            "created_at": "Mon Dec 25 01:05:24 +0000 2023",
+                            "conversation_id_str": "1739089927667695833",
+                            "display_text_range": [
+                                0,
+                                246
+                            ],
+                            "entities": {
+                                "hashtags": [],
+                                "media": [
+                                    {
+                                        "display_url": "pic.twitter.com/22IF7HYc1C",
+                                        "expanded_url": "https://twitter.com/StopAntisemites/status/1739089927667695833/photo/1",
+                                        "id_str": "1739081908909146112",
+                                        "indices": [
+                                            247,
+                                            270
+                                        ],
+                                        "media_key": "3_1739081908909146112",
+                                        "media_url_https": "https://pbs.twimg.com/media/GCJ1yDfWgAAHFuQ.jpg",
+                                        "type": "photo",
+                                        "url": "https://t.co/22IF7HYc1C",
+                                        "ext_media_availability": {
+                                            "status": "Available"
+                                        },
+                                        "features": {
+                                            "large": {
+                                                "faces": [
+                                                    {
+                                                        "x": 1127,
+                                                        "y": 447,
+                                                        "h": 259,
+                                                        "w": 259
+                                                    },
+                                                    {
+                                                        "x": 638,
+                                                        "y": 430,
+                                                        "h": 281,
+                                                        "w": 281
+                                                    },
+                                                    {
+                                                        "x": 188,
+                                                        "y": 411,
+                                                        "h": 228,
+                                                        "w": 228
+                                                    }
+                                                ]
+                                            },
+                                            "medium": {
+                                                "faces": [
+                                                    {
+                                                        "x": 853,
+                                                        "y": 338,
+                                                        "h": 196,
+                                                        "w": 196
+                                                    },
+                                                    {
+                                                        "x": 483,
+                                                        "y": 325,
+                                                        "h": 212,
+                                                        "w": 212
+                                                    },
+                                                    {
+                                                        "x": 142,
+                                                        "y": 311,
+                                                        "h": 172,
+                                                        "w": 172
+                                                    }
+                                                ]
+                                            },
+                                            "small": {
+                                                "faces": [
+                                                    {
+                                                        "x": 483,
+                                                        "y": 191,
+                                                        "h": 111,
+                                                        "w": 111
+                                                    },
+                                                    {
+                                                        "x": 273,
+                                                        "y": 184,
+                                                        "h": 120,
+                                                        "w": 120
+                                                    },
+                                                    {
+                                                        "x": 80,
+                                                        "y": 176,
+                                                        "h": 97,
+                                                        "w": 97
+                                                    }
+                                                ]
+                                            },
+                                            "orig": {
+                                                "faces": [
+                                                    {
+                                                        "x": 1127,
+                                                        "y": 447,
+                                                        "h": 259,
+                                                        "w": 259
+                                                    },
+                                                    {
+                                                        "x": 638,
+                                                        "y": 430,
+                                                        "h": 281,
+                                                        "w": 281
+                                                    },
+                                                    {
+                                                        "x": 188,
+                                                        "y": 411,
+                                                        "h": 228,
+                                                        "w": 228
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "sizes": {
+                                            "large": {
+                                                "h": 1008,
+                                                "w": 1584,
+                                                "resize": "fit"
+                                            },
+                                            "medium": {
+                                                "h": 764,
+                                                "w": 1200,
+                                                "resize": "fit"
+                                            },
+                                            "small": {
+                                                "h": 433,
+                                                "w": 680,
+                                                "resize": "fit"
+                                            },
+                                            "thumb": {
+                                                "h": 150,
+                                                "w": 150,
+                                                "resize": "crop"
+                                            }
+                                        },
+                                        "original_info": {
+                                            "height": 1008,
+                                            "width": 1584,
+                                            "focus_rects": [
+                                                {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "w": 1584,
+                                                    "h": 887
+                                                },
+                                                {
+                                                    "x": 405,
+                                                    "y": 0,
+                                                    "w": 1008,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 467,
+                                                    "y": 0,
+                                                    "w": 884,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 657,
+                                                    "y": 0,
+                                                    "w": 504,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "w": 1584,
+                                                    "h": 1008
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                    {
+                                        "display_url": "stopantisemitism.org/antisemite-of-\u2026",
+                                        "expanded_url": "http://stopantisemitism.org/antisemite-of-the-year",
+                                        "url": "https://t.co/3gz0ZuYDIs",
+                                        "indices": [
+                                            222,
+                                            245
+                                        ]
+                                    }
+                                ],
+                                "user_mentions": []
+                            },
+                            "extended_entities": {
+                                "media": [
+                                    {
+                                        "display_url": "pic.twitter.com/22IF7HYc1C",
+                                        "expanded_url": "https://twitter.com/StopAntisemites/status/1739089927667695833/photo/1",
+                                        "id_str": "1739081908909146112",
+                                        "indices": [
+                                            247,
+                                            270
+                                        ],
+                                        "media_key": "3_1739081908909146112",
+                                        "media_url_https": "https://pbs.twimg.com/media/GCJ1yDfWgAAHFuQ.jpg",
+                                        "type": "photo",
+                                        "url": "https://t.co/22IF7HYc1C",
+                                        "ext_media_availability": {
+                                            "status": "Available"
+                                        },
+                                        "features": {
+                                            "large": {
+                                                "faces": [
+                                                    {
+                                                        "x": 1127,
+                                                        "y": 447,
+                                                        "h": 259,
+                                                        "w": 259
+                                                    },
+                                                    {
+                                                        "x": 638,
+                                                        "y": 430,
+                                                        "h": 281,
+                                                        "w": 281
+                                                    },
+                                                    {
+                                                        "x": 188,
+                                                        "y": 411,
+                                                        "h": 228,
+                                                        "w": 228
+                                                    }
+                                                ]
+                                            },
+                                            "medium": {
+                                                "faces": [
+                                                    {
+                                                        "x": 853,
+                                                        "y": 338,
+                                                        "h": 196,
+                                                        "w": 196
+                                                    },
+                                                    {
+                                                        "x": 483,
+                                                        "y": 325,
+                                                        "h": 212,
+                                                        "w": 212
+                                                    },
+                                                    {
+                                                        "x": 142,
+                                                        "y": 311,
+                                                        "h": 172,
+                                                        "w": 172
+                                                    }
+                                                ]
+                                            },
+                                            "small": {
+                                                "faces": [
+                                                    {
+                                                        "x": 483,
+                                                        "y": 191,
+                                                        "h": 111,
+                                                        "w": 111
+                                                    },
+                                                    {
+                                                        "x": 273,
+                                                        "y": 184,
+                                                        "h": 120,
+                                                        "w": 120
+                                                    },
+                                                    {
+                                                        "x": 80,
+                                                        "y": 176,
+                                                        "h": 97,
+                                                        "w": 97
+                                                    }
+                                                ]
+                                            },
+                                            "orig": {
+                                                "faces": [
+                                                    {
+                                                        "x": 1127,
+                                                        "y": 447,
+                                                        "h": 259,
+                                                        "w": 259
+                                                    },
+                                                    {
+                                                        "x": 638,
+                                                        "y": 430,
+                                                        "h": 281,
+                                                        "w": 281
+                                                    },
+                                                    {
+                                                        "x": 188,
+                                                        "y": 411,
+                                                        "h": 228,
+                                                        "w": 228
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "sizes": {
+                                            "large": {
+                                                "h": 1008,
+                                                "w": 1584,
+                                                "resize": "fit"
+                                            },
+                                            "medium": {
+                                                "h": 764,
+                                                "w": 1200,
+                                                "resize": "fit"
+                                            },
+                                            "small": {
+                                                "h": 433,
+                                                "w": 680,
+                                                "resize": "fit"
+                                            },
+                                            "thumb": {
+                                                "h": 150,
+                                                "w": 150,
+                                                "resize": "crop"
+                                            }
+                                        },
+                                        "original_info": {
+                                            "height": 1008,
+                                            "width": 1584,
+                                            "focus_rects": [
+                                                {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "w": 1584,
+                                                    "h": 887
+                                                },
+                                                {
+                                                    "x": 405,
+                                                    "y": 0,
+                                                    "w": 1008,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 467,
+                                                    "y": 0,
+                                                    "w": 884,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 657,
+                                                    "y": 0,
+                                                    "w": 504,
+                                                    "h": 1008
+                                                },
+                                                {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "w": 1584,
+                                                    "h": 1008
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "favorite_count": 851,
+                            "favorited": false,
+                            "full_text": "2023 'Antisemite of the Year' - after thousands of votes this past week, three finalists have emerged: \n\n* Congresswoman Rashida Tlaib\n* Hamas leader Ismail Haniyeh\n* Supermodel Gigi Hadid\n\nVOTE and make your voice heard! https://t.co/3gz0ZuYDIs\u2026 https://t.co/22IF7HYc1C",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 117,
+                            "reply_count": 203,
+                            "retweet_count": 211,
+                            "retweeted": false,
+                            "user_id_str": "1048229681273741312",
+                            "id_str": "1739089927667695833"
+                        },
+                        "quick_promote_eligibility": {
+                            "eligibility": "IneligibleUserUnauthorized"
+                        }
+                    }
+                },
+                "tweetDisplayType": "Tweet",
+                "socialContext": {
+                    "type": "TimelineGeneralContext",
+                    "contextType": "Pin",
+                    "text": "Pinned"
+                }
+            },
+            "clientEventInfo": {
+                "component": "pinned_tweets",
+                "element": "tweet"
+            }
+        }
+    }
+}
