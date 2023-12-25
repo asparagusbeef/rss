@@ -13,7 +13,7 @@ def create_rss_feed(tweets, rss_file_name):
 
     for tweet in tweets:
         item = ET.SubElement(channel, 'item')
-        ET.SubElement(item, 'title').text = escape(tweet['full_text'][:150] + "...")
+        ET.SubElement(item, 'title').text = escape(tweet['full_text'][:90] + "...")
         ET.SubElement(item, 'link').text = tweet['tweet_url']
 
         description = ""
