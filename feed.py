@@ -7,9 +7,9 @@ def create_rss_feed(tweets, rss_file_name):
     rss_root = ET.Element('rss', version='2.0')
     channel = ET.SubElement(rss_root, 'channel')
 
-    ET.SubElement(channel, 'title').text = "My Twitter Feed"
+    ET.SubElement(channel, 'title').text = "Antisemitism in the US"
     ET.SubElement(channel, 'link').text = "https://asparagusbeef.github.io/rss/feed.xml"
-    ET.SubElement(channel, 'description').text = "A feed of tweets"
+    ET.SubElement(channel, 'description').text = "live feed"
 
     for tweet in tweets:
         item = ET.SubElement(channel, 'item')
