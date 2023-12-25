@@ -15,6 +15,7 @@ def create_rss_feed(tweets, rss_file_name):
         item = ET.SubElement(channel, 'item')
         ET.SubElement(item, 'title').text = escape(tweet['full_text'][:75] + "...")
         ET.SubElement(item, 'link').text = tweet['tweet_url']
+        ET.SubElement(item, 'author').text = "@"+tweet['user_screen_name'].lower()
 
         description = ""
         if tweet['image_urls']:
@@ -35,5 +36,5 @@ def create_rss_feed(tweets, rss_file_name):
 with open("antisemitic_instance_tweets.json", "r") as f:
     tweets = json.load(f)
 
-rss_file_name = 'my_feed.xml'
+rss_file_name = 'feed.xml'
 create_rss_feed(tweets, rss_file_name)
